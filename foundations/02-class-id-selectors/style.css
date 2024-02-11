@@ -1,0 +1,18 @@
+.paragraph {
+    background-color: pink;
+    font-style: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-elem{
+    color: blue;
+    font-size: 36px;
+}
+
+.third-elem{
+    font-size: 24px;
+}
+
+#fouth-elem{
+    background-color: lightgreen;
+    font-weight: bold;
+}
